@@ -49,6 +49,9 @@ To compile the program, use the following command:
 gcc -o health_tracker health_tracker.c
 
 
+![health_monitor](https://github.com/jhill1971/health_data_tracker/assets/60713038/26284569-8a68-4bde-b4b4-eefd15aadd36)
+
+
 # MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
